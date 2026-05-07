@@ -197,5 +197,5 @@ result = k.dispatch_mission(
 ### Author
 
 **Yagafarov Dinmukhammad**
-🌐 [www.robotsoz.uz](https://www.robotsoz.uz)
+[www.robotsoz.uz](https://www.robotsoz.uz)
 
